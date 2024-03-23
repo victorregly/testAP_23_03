@@ -1,1 +1,1 @@
-print("hello")
+print("I do have the will to understand this shit")
